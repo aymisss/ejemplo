@@ -7,4 +7,36 @@ body{
     color: firebrick;
 }
 
+.alumna {
+    color: aquamarine;
+}
+.alumna {
+    margin-top: 100px;
+    margin-left: 150px;
+    margin-right: 50px;
+    margin-bottom: 250px;
+    border-top: 8px black solid;
+    border-right: 10px black dashed;
+    border-bottom: 8px black dotted;
+    border-left: 10px black double;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+.productos {
+    color: aqua;
+    margin-top: 130px;
+    margin-bottom: 130px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-top: 10px maroon dashed;
+    border-bottom: 10px maroon dashed;
+    border-left: 15px maroon double;
+    border-right: 15px maroon double;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
 
